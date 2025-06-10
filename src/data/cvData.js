@@ -1,6 +1,6 @@
 // src/data/cvData.js
 export const cabecera = {
-  nombre: "Juan David Gomez Naranjo",
+  nombre: "Yeison Caro Orrego",
   cargo: "Desarrollador Back-End",
 };
 
@@ -12,7 +12,7 @@ export const perfil = {
 export const educacion = [
   {
     id: 1,
-    titulo: "Técnico en Sistemas",
+    titulo: "Técnico en Programación de Software",
     universidad: "SENA",
     periodo: "2022"
   }
